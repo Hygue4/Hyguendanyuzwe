@@ -42,17 +42,6 @@ Here are some of the projects I’m working on (or plan to build):
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HygueNdanyuzwe&show_icons=true&theme=radical" alt="Hygue's GitHub stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HygueNdanyuzwe&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### ⚽ Fun Corner
 When I’m not coding, you’ll probably find me:  
 - Watching **football matches** 🏟️⚽  
@@ -64,7 +53,7 @@ When I’m not coding, you’ll probably find me:
 ### 📫 Let’s Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/hygue-ndanyuzwe-21a2a2347" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:your-email@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
+<a href="gmail:your-ndanyuzwehygue@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
 </p>
 
 ---
